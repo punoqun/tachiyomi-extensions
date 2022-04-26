@@ -11689,10 +11689,10 @@
   {
     "name": "Tachiyomi: ManhwaManga.net",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhwamanga",
-    "apk": "tachiyomi-en.manhwamanga-v1.2.6.apk",
+    "apk": "tachiyomi-en.manhwamanga-v1.2.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.2.6",
+    "code": 7,
+    "version": "1.2.7",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22442,6 +22442,25 @@
         "lang": "tr",
         "id": "2542022405505616887",
         "baseUrl": "https://uyuyanbalik.com/"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Uzay Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.uzaymanga",
+    "apk": "tachiyomi-tr.uzaymanga-v1.2.20.apk",
+    "lang": "tr",
+    "code": 20,
+    "version": "1.2.20",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Uzay Manga",
+        "lang": "tr",
+        "id": "6934235017964307278",
+        "baseUrl": "https://uzaymanga.com"
       }
     ]
   },
