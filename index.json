@@ -11651,10 +11651,10 @@
   {
     "name": "Tachiyomi: Manhwafull",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhwafull",
-    "apk": "tachiyomi-en.manhwafull-v1.2.20.apk",
+    "apk": "tachiyomi-en.manhwafull-v1.2.21.apk",
     "lang": "en",
-    "code": 20,
-    "version": "1.2.20",
+    "code": 21,
+    "version": "1.2.21",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19034,13 +19034,13 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki161.net"
+        "baseUrl": "https://manatoki162.net"
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki161.com"
+        "baseUrl": "https://newtoki162.com"
       }
     ]
   },
@@ -20301,10 +20301,10 @@
   {
     "name": "Tachiyomi: Neox Scanlator",
     "pkg": "eu.kanade.tachiyomi.extension.pt.neoxscanlator",
-    "apk": "tachiyomi-pt.neoxscanlator-v1.2.30.apk",
+    "apk": "tachiyomi-pt.neoxscanlator-v1.2.31.apk",
     "lang": "pt-BR",
-    "code": 30,
-    "version": "1.2.30",
+    "code": 31,
+    "version": "1.2.31",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
